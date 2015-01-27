@@ -1,2 +1,3 @@
 # meteor-demo
-Demo for Meteor Best Practice and Iron Route
+
+Test Meteor Collection , Template , Iron Route , Folder Structure Best Practice
